@@ -2,6 +2,11 @@
 Changelog for package communication_skills
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* ament_auto_package now requires USE_SCOPED_HEADER_INSTALL_DIR
+* Contributors: Séverin Lemaignan
+
 1.3.2 (2025-06-25)
 ------------------
 * refine skills parameters documentation
