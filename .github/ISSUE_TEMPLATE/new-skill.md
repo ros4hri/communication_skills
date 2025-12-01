@@ -11,7 +11,8 @@ assignees: ''
 
 ## Use-case
 
-Describe here briefly why you want to add this skill and why it is different from other existing skills.
+Describe here briefly why you want to add this skill and why it is different
+from other existing skills.
 
 ## Skill manifest
 
@@ -21,9 +22,9 @@ description: |
      Write here the documentation of your skill
 interface: <action|service|topic>
 default_interface_path: /skill/<skill id>
-datatype: manipulation_skills/<action|service|topic>/<MessageDefinition>
+datatype: communication_skills/<action|service|topic>/<MessageDefinition>
 functional_domains:
-  - manipulation
+  - communication
 parameters:
   in:
       - name: <param_name>
