@@ -30,6 +30,7 @@
 
     <skill content-type="yaml">
         id: ask
+        version: 1.0.0
         description: |
           A specialization of the :skill:`chat` where the role 
           is predefined and the dialogue is always initiated by the robot.
@@ -97,6 +98,7 @@
 
     <skill content-type="yaml">
         id: chat
+        version: 1.0.0
         description: |
            Start a dialogue with a defined purpose.
            
@@ -144,6 +146,7 @@
 
     <skill content-type="yaml">
         id: say
+        version: 1.0.0
         description: |
           Speak out the provided input text (also executing any 
           additional markup action).
